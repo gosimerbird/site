@@ -1,0 +1,64 @@
+
+
+
+#navbar ul li { 
+
+display: inline; 
+} 
+
+#navbar ul li a {
+text-decoration:none; 
+padding: .2em 1em; 
+color: white; 
+background-color: brown ; 
+} 
+
+#navbar ul li a:hover { 
+color: white ; 
+background-color: purple ; 
+}
+
+ #navbar ul { 
+margin: 0; 
+padding: 5px; 
+list-style-type: none; 
+text-align: center; 
+background-color: DarkKhaki; 
+} 
+.header {
+	padding-top:10px;
+	background-color:brown;
+	color: white;
+	font-size: 35px;
+	font-family: times new roman;
+	}
+body {
+	color: purple;
+	font-size: 16.8px;
+	font-family: comic sans ms;
+	font-size: 20px;
+	}
+
+ol {
+	color: brown;
+	list-style-image: url("file:///C:/Users/705Parent05/Documents/yee.jpg");
+
+	
+	}
+	
+	
+ol {
+	color: brown;
+}
+
+.footer {
+background-color: brown;
+color: white;
+text-align: center;
+position: relative;
+bottom:0;
+left:0;
+width:100%;
+hight:100px;
+
+	}
